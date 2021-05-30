@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "a599c87b49302c84",
+    "type": "split",
+    "children": [
+      {
+        "id": "db158fa8bb95ad44",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Сопартийцы/Варлик Морл (HK-47).md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f311e14629026208",
+    "type": "split",
+    "children": [
+      {
+        "id": "6967207eae628fcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4a2efd01993811c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "18187fcf6bbccc40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0aebd6402b413976",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5d275c47a399171",
+    "type": "split",
+    "children": [
+      {
+        "id": "64018210274476b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe35888c81a2ac3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Сопартийцы/Варлик Морл (HK-47).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "061f56b76721eff0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "59ac5605e57d88fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Сопартийцы/Варлик Морл (HK-47).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "db158fa8bb95ad44",
+  "lastOpenFiles": [
+    "Сопартийцы/Варлик Морл (HK-47).md",
+    "грибных ураганов.md",
+    "Главная страница.md",
+    "Сопартийцы/Франческо де ла Верте.md",
+    "Сопартийцы/Фарланд.md",
+    "Города/Город Волоиз.md",
+    "Грибы.md",
+    "Шпион Газальбо.md",
+    "Untitled.md",
+    "Index.md"
+  ]
+}
